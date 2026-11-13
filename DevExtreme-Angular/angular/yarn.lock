@@ -318,12 +318,12 @@
     universal-analytics "0.4.23"
     uuid "8.3.1"
 
-"@angular/common@~11.0.3":
-  version "11.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-11.0.3.tgz#9af42f9cea34caac971396e7cb9c71b8609e87fe"
-  integrity sha512-g5j6pwN6GOcqIDMV87/ZELm/VlWBvMj2vewIBr0a9KSA/pdAe6rvWR9kfnK9G6GFLv6ST3mq8HWe7NGyF1jpTw==
+"@angular/common@~20.3.34":
+  version "20.3.34"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-20.3.34.tgz#44a342d381f5b7a16d9f11a99f36028855585f08"
+  integrity sha512-OhB/l0cNldOvQeICqbWqRUzK5fF6zNYy44Q4cIGJZql8HXL/invGiqWLE9f+kU8z4jRisofHIGTBtyJQYYOudg==
   dependencies:
-    tslib "^2.0.0"
+    tslib "^2.3.0"
 
 "@angular/compiler-cli@~11.0.3":
   version "11.0.3"
@@ -396,12 +396,12 @@
   dependencies:
     tslib "^2.0.0"
 
-"@angular/router@~11.0.3":
-  version "11.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-11.0.3.tgz#e8b15cbfd7f25fa5891bb2ff787185e550a5d5f5"
-  integrity sha512-iw9jed7sels2CcLJmr0m4TXfoiu8u40a84D0PsEEm1FGEXe4KJQ/jiLQTfiFQywxBd4cvlUdbl4lPHoUN0bspw==
+"@angular/router@~20.3.33":
+  version "20.3.33"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-20.3.33.tgz#714f0e031d370859db29f9f793cca06e297bfea4"
+  integrity sha512-M55ibvrJSWGP7sGf+uZFvC66cxRkFlS4TjtI4Owus4gDCqW69/jhUo8pNGXf0T3QpO3iorbHScZfGwVmLATLLA==
   dependencies:
-    tslib "^2.0.0"
+    tslib "^2.3.0"
 
 "@ant-design/colors@^5.0.0":
   version "5.1.1"
@@ -9562,12 +9562,7 @@ tslib@^1.10.0, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.13.0.tgz#c881e13cc7015894ed914862d276436fa9a47043"
   integrity sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==
 
-tslib@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.1.tgz#410eb0d113e5b6356490eec749603725b021b43e"
-  integrity sha512-SgIkNheinmEBgx1IUNirK0TUD4X9yjjBRTqqjggWCU3pUEqIk3/Uwl3yRixYKT6WjQuGiwDv4NomL3wqRCj+CQ==
-
-tslib@^2.3.0:
+tslib@^2.0.0, tslib@^2.3.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
